@@ -1,0 +1,58 @@
+.gambar img{
+    width: 200px;
+    border-radius: circle;
+}
+body{
+    background-color: var(--mainColor);
+ /*   width: 1280px;
+    height: 720px; */
+    font-family: 'poppins',sans-serif;
+}
+
+
+/* Navbar */
+.nav-link{
+  color: var(--acsentColor) !important;
+}
+.nav-link.active{
+  color:var(--secondaryColor) !important;
+  font-weight: 600;
+}
+.navbar-edit .gg .gl img{
+    width: 50px;
+    height: 50px;
+}
+
+.navbar-nav, .nav-item, a{
+  color: var(--acsentColor);
+}
+.logo{
+    width: 120px;
+    height: 100px;
+  }
+.figure img{
+    border-radius: 200px; 
+    width: 220px;
+    height: 220px;
+}
+.gh p{
+    font-size: 20px;
+}
+
+.bg {
+  background-color:rgba(100, 110, 183, 0.5); ;
+  height: 50px;
+ }
+ .ss{
+  display: flex;
+  justify-content: center;
+ }
+ .ss img{
+  margin-top: 10px;
+  margin-right: 14px;
+ }
+ .ss h5{
+  margin-top: 13px;
+  margin-left: px;
+ }
+ 

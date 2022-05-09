@@ -1,0 +1,65 @@
+body{
+    background-color: var(--mainColor);
+ /*   width: 1280px;
+    height: 720px; */
+    font-family: 'poppins',sans-serif;
+}
+
+
+/* Navbar */
+.nav-link{
+  color: var(--acsentColor) !important;
+}
+.nav-link.active{
+  color:var(--secondaryColor) !important;
+  font-weight: 600;
+}
+.navbar-edit .gg .gl img{
+    width: 50px;
+    height: 50px;
+}
+
+.navbar-nav, .nav-item, a{
+  color: var(--acsentColor);
+}
+.logo{
+    width: 120px;
+    height: 100px;
+  }
+.gl h1{
+    font-style: italic;
+}
+h2{
+ font-style: italic;
+ font-weight: bold;
+}
+
+.bg {
+  background-color: #B7CADB;
+  height: 50px;
+ }
+ .ss{
+  display: flex;
+  justify-content: center;
+ }
+ .ss img{
+  margin-top: 10px;
+  margin-right: 14px;
+ }
+ .ss h5{
+  margin-top: 13px;
+  margin-left: px;
+ }
+ 
+ h4{
+  font-weight: bold;
+ }
+ 
+ p{
+   font-style: italic;
+ }
+
+ img{
+   width: 150px;
+   height: 150px;
+ }

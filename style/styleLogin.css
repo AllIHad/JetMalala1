@@ -1,0 +1,51 @@
+:root {
+    --mainColor : #646EB7;
+    --secondaryColor: #646EB7;
+    --acsentColor: #fff;
+}
+body{
+    background-color: var(--mainColor);
+ /*   width: 1280px;
+    height: 720px; */
+    font-family: 'poppins',sans-serif;
+}
+/* Navbar */
+.nav-link{
+  color: var(--acsentColor) !important;
+}
+.nav-link.active{
+  color:var(--secondaryColor) !important;
+  font-weight: 600;
+}
+.btn-primary, 
+.btn-primary:hover {
+    background-color: var(--secondaryColor);
+    border-color: var(--secondaryColor);
+}
+.btn-primary:active,
+        .btn-primary:focus {
+            color: #646EB7;
+            background-color: #fff !important;
+            border-color: var(--secondaryColor) !important;
+            box-shadow: 0 0 0 0.2rem #fff!important;
+        }
+
+.navbar-nav, .nav-item, a{
+  color: var(--acsentColor);
+}
+
+/*isi konten*/
+
+.login{
+  color: var(--secondaryColor);
+}
+
+.text-start{
+  color: #000;
+}
+/*end konten*/
+
+.logo{
+  width: 50px;
+  height: 50px;
+}
