@@ -1,0 +1,65 @@
+.nav-link{
+    color: var(--acsentColor) !important;
+  }
+  .nav-link.active{
+    color:var(--secondaryColor) !important;
+    font-weight: 600;
+  }
+  .navbar-edit .gg .gl img{
+      width: 50px;
+      height: 50px;
+  }
+  
+  .navbar-nav, .nav-item, a{
+    color: var(--acsentColor);
+  }
+
+  .navbar-edit img{
+    width: 100px;
+    height: 80px;
+  }
+  .navbar-edit .acc{
+    width: 50px;
+    height: 50px;
+    
+  }
+
+  .navbar-edit ul li{
+    text-align: justify;
+
+  }
+
+  .navbar-edit img{
+    nav-left: auto;
+  }
+
+  .pay {
+    width: 200px;
+    height: 150px;
+  }
+
+  .pal{
+    
+  }
+
+  .lol{
+    width: 250px;
+    height: 100px;
+  }
+
+  .bg {
+    background-color: #B7CADB;
+    height: 50px;
+   }
+   .ss{
+    display: flex;
+    justify-content: center;
+   }
+   .ss img{
+    margin-top: 10px;
+    margin-right: 14px;
+   }
+   .ss h5{
+    margin-top: 13px;
+    margin-left: px;
+   }

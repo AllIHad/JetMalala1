@@ -1,0 +1,53 @@
+.nav-link{
+    color: var(--acsentColor) !important;
+  }
+  .nav-link.active{
+    color:var(--secondaryColor) !important;
+    font-weight: 600;
+  }
+  .navbar-edit .gg .gl img{
+      width: 50px;
+      height: 50px;
+  }
+  
+  .navbar-nav, .nav-item, a{
+    color: var(--acsentColor);
+  }
+
+  .navbar-edit img{
+    width: 120px;
+    height: 100px;
+  }
+  .navbar-edit .acc{
+    width: 50px;
+    height: 50px;
+    
+  }
+.sad img{
+    width: 200px;
+    height: 200px;
+  }
+  .fool img{
+    width: 200px;
+    height: 200px; 
+  }
+  .dumb img{
+    width: 200px;
+    height: 200px;
+  }
+  .bg {
+    background-color: #B7CADB;
+    height: 50px;
+   }
+   .ss{
+    display: flex;
+    justify-content: center;
+   }
+   .ss img{
+    margin-top: 10px;
+    margin-right: 14px;
+   }
+   .ss h5{
+    margin-top: 13px;
+    margin-left: px;
+   }
